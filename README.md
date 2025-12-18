@@ -1,9 +1,8 @@
 # TextileHub - E-Commerce Web App
 
 A lightweight e-commerce application for clothing fabrics, curtains, and bedding products.
-https://essential-e-commerce-7hf8.bolt.host/
-[Visit-Demo]([https://essential-e-commerce-7hf8.bolt.host/])
-[Visit Demo]([https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3-nnf1sesr--5173--365214aa.local-credentialless.webcontainer-api.io/])
+[Visit-Demo](https://essential-e-commerce-7hf8.bolt.host/)
+[Visit Demo](https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3-nnf1sesr--5173--365214aa.local-credentialless.webcontainer-api.io/)
 
 ## Features
 
